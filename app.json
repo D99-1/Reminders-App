@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Reminders",
+    "slug": "Reminders",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon1.png",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#FFFFFF",
+
+      "plugins": [
+        [
+          "expo-notifications",
+          {
+            "icon": "./assets/icon1.png",
+            "color": "#ffffff"
+          }
+        ]
+      ]
+    },
+    
+    "notification": {
+      "color": "#7f2ee1"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon1.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "icon":"./assets/icon1.png",
+      "package": "com.d99.reminders",
+      "versionCode":4
+    },
+    "web": {
+      "favicon": "./assets/icon1.png"
+    }
+  }
+}
