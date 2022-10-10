@@ -3,7 +3,7 @@ import { useTheme } from "react-native-paper";
 import { AntDesign } from "@expo/vector-icons";
 import Element from "../Components/Swipablelist";
 import Model from "../Components/model";
-import { Context } from "../Context/ReminderDataContext";
+import { Context } from "../etc/ReminderDataContext";
 
 import {
   Text,
