@@ -10,8 +10,8 @@ import {
   Provider as PaperProvider,
   ActivityIndicator,
 } from "react-native-paper";
-import { Context as SettingsContext } from "../Context/SettingsContext";
-import { Context as ReminderContext } from "../Context/ReminderDataContext";
+import { Context as SettingsContext } from "../etc/SettingsContext";
+import { Context as ReminderContext } from "../etc/ReminderDataContext";
 import {snoozeTime} from "./Settings_Screen"
 
 import * as Notifications from "expo-notifications";
