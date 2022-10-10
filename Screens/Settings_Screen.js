@@ -1,7 +1,7 @@
 import React, { useContext, useState, useCallback } from "react";
 import { Text, View, StyleSheet, TouchableOpacity, Switch, Button, Linking, Image } from "react-native";
 import { Feather, MaterialIcons, AntDesign } from "@expo/vector-icons";
-import { Context } from "../Context/SettingsContext";
+import { Context } from "../etc/SettingsContext";
 import { useTheme } from "react-native-paper";
 import { Checkbox } from 'react-native-paper';
 import TimeZone from 'react-native-timezone';
