@@ -1,5 +1,5 @@
-import { Provider as SettingsProvider } from "./Context/SettingsContext";
-import { Provider as ReminderProvider } from "./Context/ReminderDataContext";
+import { Provider as SettingsProvider } from "./etc/SettingsContext";
+import { Provider as ReminderProvider } from "./etc/ReminderDataContext";
 
 import React from "react";
 import Main from "./Screens/main";
