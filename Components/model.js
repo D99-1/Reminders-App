@@ -4,7 +4,7 @@ import moment from "moment";
 import DateTimePicker from "@react-native-community/datetimepicker";
 import { AntDesign } from "@expo/vector-icons";
 import { useTheme, Snackbar } from "react-native-paper";
-import { Context } from "../Context/ReminderDataContext";
+import { Context } from "../etc/ReminderDataContext";
 import TimeZone from 'react-native-timezone';
 
 
