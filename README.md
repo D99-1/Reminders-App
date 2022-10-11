@@ -10,4 +10,4 @@ Laptop
 an android device or emulator 
 
 # Installation 
-See [!Guide[/docs/guideAPK.md]]
+See https://github.com/D99-1/Reminders-App/blob/main/docs/BuildAPK.md 
