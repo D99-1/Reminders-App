@@ -3,7 +3,7 @@ this documentation is a more in depth guide to install and get the reminder app.
 
 # Requirements
 To get started, you will need 2 things:
-Any machine that can support windows and NodeJS
+Any machine that can support windows/macos and NodeJS
 
 A android emulator or a phisical android device
 
