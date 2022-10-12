@@ -31,7 +31,8 @@ A: Any bugs can ruin the app experience and I aim to patch them as soon as possi
 
 Q: Can I help and how?
 
-A: Yes, just simply fork this repo and add some features or anything you like and create a PR (pull request), but do note that there will be no payment as you are doing this freely.
+A: Yes, just simply fork this repo and add some features or anything you like and create a PR (pull request)
 
+> Remember: Volunteers help keep this project alive and going so any and all help is appreciated
 # Aknowledgements
 I have used lots of code and inspiration from <a href="https://github.com/Mazahir26/Reminder-App">Mazahir26</a> and I would like to thank them for all the code used in this app that they wrote
